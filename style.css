@@ -32,6 +32,10 @@ main {
     justify-content: center;
 }
 
+.user img{
+    border-radius: 50%;
+}
+
 .glass {
     background: white;
     min-height: 80vh;
